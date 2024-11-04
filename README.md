@@ -32,7 +32,7 @@ Click here to learn more about my experience and skills.
 
 
 - 🔭 I’m currently working on: Management Control System, I call it **S21 Impulse**  
-- 🌱 I’m currently learning: Azure y Machine Learning
+- 🌱 I’m currently learning: Azure, Flutter y Machine Learning
 
 
 
