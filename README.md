@@ -17,9 +17,6 @@ I ensure that managers and team members make informed, data-driven decisions, ad
 🏅 **Professional Experience**  
 With over 20 years of experience in programming and data analysis, I have led teams in both technical and commercial areas across various companies. I also bring 15 years of experience in SAP ISU and SD.
 
-🔭 **Looking for a New Team Member?**  
-Click here to learn more about my experience and skills.
-
 ---
 
 ### Connect with Me
