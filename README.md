@@ -1,5 +1,7 @@
 ## Hi there 👋 My name is **Winston Guzmán** 
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
+<p width="45%">
+<br>
 ## About Me
 
 💻 **Professional Profile**  
@@ -32,11 +34,14 @@ With over 20 years of experience in programming and data analysis, I have led te
 - 🌱 I’m currently learning: Azure, Flutter y Machine Learning
 
 
-
-<br>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=winstonjgz&show_icons=true&count_private=true&include_all_commits=true&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winstonjgz&layout=compact)
+ <h2> 📊 Github Stats ....</h2>
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=winstonjgzb&theme=vue">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=winstonjgz&theme=vue">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=winstonjgz&theme=vue">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=winstonjgz&theme=vue">
+	
+</p>
 
 <br>
 
