@@ -4,24 +4,24 @@
 	
 😎 **About Me:**
 
-💻 **Professional Profile**  
+💻 **Professional Profile:**  
 I am a passionate and experienced professional in computing and assertive leadership, dedicated to fostering the development of the human team within the company. Through the design, analysis, and implementation of effective management controls, I make decisions supported by thorough statistical analysis and apply programming and analytical skills.
 
-👍 **Technical Expertise**  
+👍 **Technical Expertise:**  
 I support management through a robust tech stack, including:
 - **Programming:** HTML, CSS, Bootstrap, CodeIgniter 4, JavaScript, PHP, Angular, Java (JPA, Hibernate, Maven), Python, R, VBA, MySQL.
 - **Data Analysis and Tools:** SAP (ISU), Python (with libraries like Pandas, Numpy, Sklearn), Excel/Google Sheets (VBA, AppScript, dynamic tables and charts), Tableau, Looker, SPSS.
 - **Continuous Learning:** Constantly enhancing my IT knowledge, currently taking Salesforce (Admin) courses and learning Azure and Machine Learning.
 
-🏆 **Management Support and Data-Driven Decision Making**  
+🏆 **Management Support and Data-Driven Decision Making:**  
 I ensure that managers and team members make informed, data-driven decisions, advancing towards established indicators, goals, and objectives. My approach is characterized by effectiveness, efficiency, and a focus on fostering human capital growth.
 
-🏅 **Professional Experience**  
+🏅 **Professional Experience:**  
 With over 20 years of experience in programming and data analysis, I have led teams in both technical and commercial areas across various companies. I also bring 15 years of experience in SAP ISU and SD.
 </p>
 
 
-### Connect with Me
+### Connect with Me:
 - 📲 **Portfolio:** [https://winstonjgz.github.io](https://winstonjgz.github.io)
 - 💎 **GitHub:** [https://github.com/winstonjgz](https://github.com/winstonjgz)
 - 📊 **Tableau:** [https://public.tableau.com/app/profile/winston.guzman/vizzes](https://public.tableau.com/app/profile/winston.guzman/vizzes)
@@ -34,9 +34,8 @@ With over 20 years of experience in programming and data analysis, I have led te
 - 🌱 I’m currently learning: Azure, Flutter y Machine Learning
 
 
- <h2> 📊 Github Stats ....</h2>
+ <h2> 📊 Github Stats:</h2>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=winstonjgzb&theme=vue">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=winstonjgz&theme=vue">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=winstonjgz&theme=vue">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=winstonjgz&theme=vue">
@@ -45,9 +44,9 @@ With over 20 years of experience in programming and data analysis, I have led te
 
 <br>
 
-## My Tech Stack and Tools
+## My Tech Stack and Tools:
 
-### Programming Languages
+### Programming Languages:
 
  ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white) 
  ![SQL](http://img.shields.io/badge/-SQL-00758f?style=flat-square&logo=mysql&logoColor=white) 
@@ -60,7 +59,7 @@ With over 20 years of experience in programming and data analysis, I have led te
  ![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black) 
  ![PHP](http://img.shields.io/badge/-PHP-767bb3?style=flat-square&logo=php&logoColor=white) 
 
-### Frameworks and Libraries
+### Frameworks and Libraries:
 
  ![Spring](http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white) 
  ![Spring Boot](http://img.shields.io/badge/-Spring%20Boot-629e3a?style=flat-square&logo=springboot&logoColor=white) 
@@ -71,18 +70,18 @@ With over 20 years of experience in programming and data analysis, I have led te
  ![CodeIgniter](http://img.shields.io/badge/CodeIgniter-FF7F00?style=flat-square&logo=codeigniter&logoColor=white) 
  ![Jupyter Notebook](http://img.shields.io/badge/Jupyter-orange?style=flat-square) 
 
-### Operating Systems
+### Operating Systems:
 
  ![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black) 
  ![Windows](http://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) 
 
-### Databases
+### Databases:
 
  ![MySQL](http://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql) 
  ![PostgreSQL](http://img.shields.io/badge/PostgreSQL-blue?style=flat-square) 
  ![SQL Server](http://img.shields.io/badge/SQL%20Server-azure?style=flat-square) 
 
-### Tools and IDEs
+### Tools and IDEs:
 
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git) 
 ![npm](http://img.shields.io/badge/-npm-white?style=flat-square&logo=npm&logoColor=white) 
@@ -90,7 +89,7 @@ With over 20 years of experience in programming and data analysis, I have led te
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea&logoColor=white) 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2) 
 
-### Language Models
+### Language Models:
 
 ![Gemini](http://img.shields.io/badge/Gemini-blueviolet?style=flat-square&logo=google&logoColor=white) 
 ![ChatGPT](http://img.shields.io/badge/ChatGPT-40a0ff?style=flat-square&logo=openai&logoColor=white) 
