@@ -1,8 +1,8 @@
-## Hi there 👋 My name is **Winston Guzmán** 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
+## Hi there 👋 my name is **Winston Guzmán** 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="35%" />
 <p width="45%">
-<br>
-## About Me
+	
+😎 **About Me:**
 
 💻 **Professional Profile**  
 I am a passionate and experienced professional in computing and assertive leadership, dedicated to fostering the development of the human team within the company. Through the design, analysis, and implementation of effective management controls, I make decisions supported by thorough statistical analysis and apply programming and analytical skills.
@@ -18,8 +18,8 @@ I ensure that managers and team members make informed, data-driven decisions, ad
 
 🏅 **Professional Experience**  
 With over 20 years of experience in programming and data analysis, I have led teams in both technical and commercial areas across various companies. I also bring 15 years of experience in SAP ISU and SD.
+</p>
 
----
 
 ### Connect with Me
 - 📲 **Portfolio:** [https://winstonjgz.github.io](https://winstonjgz.github.io)
