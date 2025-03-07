@@ -58,6 +58,7 @@ With over 20 years of experience in programming and data analysis, I have led te
  ![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white) 
  ![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black) 
  ![PHP](http://img.shields.io/badge/-PHP-767bb3?style=flat-square&logo=php&logoColor=white) 
+[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
 
 ### Frameworks and Libraries:
 
@@ -91,9 +92,24 @@ With over 20 years of experience in programming and data analysis, I have led te
 
 ### Language Models:
 
-![Gemini](http://img.shields.io/badge/Gemini-blueviolet?style=flat-square&logo=google&logoColor=white) 
-![ChatGPT](http://img.shields.io/badge/ChatGPT-40a0ff?style=flat-square&logo=openai&logoColor=white) 
-![Copilot](http://img.shields.io/badge/Copilot-blue?style=flat-square&logo=github&logoColor=white) 
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
+
+### Code Editor:
+[![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](#)
+[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+[![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+
+
+### Colaboration Tool:
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#)
+
 
 ---
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
