@@ -10,8 +10,8 @@ I am a passionate and experienced professional in computing and assertive leader
 👍 **Technical Expertise:**  
 I support management through a robust tech stack, including:
 - **Programming:** HTML, CSS, Bootstrap, CodeIgniter 4, JavaScript, PHP, Angular, Java (JPA, Hibernate, Maven), Python, R, VBA, MySQL.
-- **Data Analysis and Tools:** SAP (ISU), Python (with libraries like Pandas, Numpy, Sklearn), Excel/Google Sheets (VBA, AppScript, dynamic tables and charts), Tableau, Looker, SPSS.
-- **Continuous Learning:** Constantly enhancing my IT knowledge, currently taking Salesforce (Admin) courses and learning Azure and Machine Learning.
+- **Data Analysis and Tools:** SAP (ISU), Python (with libraries like Pandas, Numpy, Sklearn), Excel/Google Sheets (VBA, AppScript, dynamic tables and charts), Tableau, Looker, Power BI, SPSS.
+- **Continuous Learning:** Constantly enhancing my IT knowledge, currently taking Salesforce (Admin) courses and learning Machine Learning.
 
 🏆 **Management Support and Data-Driven Decision Making:**  
 I ensure that managers and team members make informed, data-driven decisions, advancing towards established indicators, goals, and objectives. My approach is characterized by effectiveness, efficiency, and a focus on fostering human capital growth.
