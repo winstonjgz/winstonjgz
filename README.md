@@ -31,7 +31,7 @@ With over 20 years of experience in programming and data analysis, I have led te
 
 
 - 🔭 I’m currently working on: Management Control System, I call it **S21 Impulse**  
-- 🌱 I’m currently learning: Azure, Flutter y Machine Learning
+- 🌱 I’m currently learning: Automation, Mikrotik y Machine Learning
 
 
  <h2> 📊 Github Stats:</h2>
